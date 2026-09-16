@@ -106,6 +106,15 @@ export default function Footer() {
                 <br />
                 {COMPANY.city}
               </p>
+
+              <p className="mt-6 font-mono text-[0.62rem] uppercase tracking-[0.2em] text-steel">
+                Referente
+              </p>
+              <p className="mt-3 text-[0.95rem] leading-[1.7] text-paper">
+                {COMPANY.contactName}
+                <br />
+                <span className="text-steel-2">{COMPANY.contactRole}</span>
+              </p>
             </div>
 
             <div className="md:col-span-4">

@@ -354,7 +354,7 @@ export default function Hero() {
       <div className="blueprint pointer-events-none absolute inset-0" aria-hidden="true" />
 
       <div className="hero-stage relative mx-auto flex min-h-svh w-full max-w-[1680px] flex-col justify-center gap-12 px-gutter pt-28 pb-14 md:gap-0 md:py-32">
-        <div className="hero-figure mx-auto w-[min(100%,25rem)] md:pointer-events-none md:absolute md:inset-y-0 md:right-[-3%] md:mx-0 md:flex md:w-[56%] md:max-w-none md:items-center lg:right-0 lg:w-[52%]">
+        <div className="hero-figure mx-auto w-[min(100%,25rem)] md:pointer-events-none md:absolute md:inset-y-0 md:right-[-3%] md:mx-0 md:flex md:w-[50%] md:max-w-none md:items-center lg:right-0 lg:w-[48%]">
           <div className="hero-figure-inner w-full">
             <Structure />
           </div>

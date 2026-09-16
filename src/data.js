@@ -1,17 +1,19 @@
-// Contenido del sitio. Los datos de contacto marcados como PENDIENTE deben
-// reemplazarse por los definitivos antes de publicar.
+// Contenido del sitio.
 export const COMPANY = {
   name: "Construtend",
   legalName: "CONSTRUTEND S.A.",
   cuit: "30-71776067-7",
   founded: "2022",
   foundedLong: "31 de agosto de 2022",
-  address: "Av. Callao 322, Piso 5, Dpto. B",
-  city: "Ciudad Autónoma de Buenos Aires",
-  email: "contacto@construtend.com.ar", // PENDIENTE
-  phoneLabel: "+54 11 5555 5555", // PENDIENTE
-  phoneHref: "+541155555555", // PENDIENTE
-  whatsapp: "5491155555555", // PENDIENTE
+  address: "Jaramillo 3894, Piso 7, Dpto. 16",
+  city: "C1425 Ciudad Autónoma de Buenos Aires",
+  contactName: "Caterina Barboza",
+  contactRole: "Secretaría de Presidencia",
+  email: "construtend2025@gmail.com",
+  phoneLabel: "+54 11 2372 2725",
+  phoneHref: "+541123722725",
+  // wa.me pide el 9 de celular, que el formato local no muestra.
+  whatsapp: "5491123722725",
 };
 
 export const NAV = [
